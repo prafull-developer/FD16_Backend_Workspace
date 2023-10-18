@@ -1,4 +1,4 @@
-package com.cjc.model;
+package com.delta.model;
 
 import javax.persistence.Entity;
 

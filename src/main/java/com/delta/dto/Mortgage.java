@@ -1,4 +1,4 @@
-package com.cjc.dto;
+package com.delta.dto;
 
 public class Mortgage {
 

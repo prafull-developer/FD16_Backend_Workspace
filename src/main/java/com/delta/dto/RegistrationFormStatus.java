@@ -1,13 +1,10 @@
-package com.cjc.dto;
+package com.delta.dto;
 
 import lombok.Data;
 
 @Data
 
-
-
-public class RegistrationForm {
-	
+public class RegistrationFormStatus {
 	
 	
 	private int age;
@@ -22,15 +19,6 @@ public class RegistrationForm {
 	private String status;
 	private LoanDetails cLoanDetails;
 	private AccountDetails cAccountDetails;
-	private Cibil cibil;
-	
-	
-
-	
-	
-	
-	
-	
 	
 	
 
